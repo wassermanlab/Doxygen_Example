@@ -6,5 +6,17 @@
 /// - \subpage installpage "Installation"
 /// - \subpage example "Example"
 ///
+/////////////////////////////////////////////////////////////////////
+/// \page installpage Installation
+/// Just wish really hard upon a star 
+///  
+///
+/////////////////////////////////////////////////////////////////////
+/// \page example Example
+/// Some example that probably wont help you anyway 
+/// \code{.sh}
+/// run --help 
+/// \endcode 
+/////////////////////////////////////////////////////////////////////
 ///
 /// \copyright Copyright (c) 2020, Wasserman lab
