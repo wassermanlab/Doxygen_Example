@@ -2,7 +2,7 @@
 \section intro_sec Introduction
 stuff about something important
 
- - [Installation Instructions](installation.md)
+ - \subpage installation "Installation Instructions"
  - \subpage example "Example"
 
 
