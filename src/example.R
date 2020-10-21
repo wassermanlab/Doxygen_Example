@@ -1,4 +1,4 @@
-/// \ref exampleR
+/// \page exampleR
 # command to load the functions for use in R console:  (where directory1/directory2/ is the absolute path)
 # source("/directory1/directory2/Visualization_methods_Rcode.R")
 #
