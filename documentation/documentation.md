@@ -5,6 +5,7 @@ stuff about something important
  - \subpage installation "Installation Instructions"
  - \subpage example "Example"
 
+ \copyright Copyright (c) 2020, Wasserman lab
 
  \page example Example
  Some example that probably wont help you anyway 
@@ -13,4 +14,3 @@ stuff about something important
  \endcode 
 
 
- \copyright Copyright (c) 2020, Wasserman lab
