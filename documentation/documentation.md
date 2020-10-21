@@ -8,8 +8,11 @@ stuff about something important
 \subsection Different Coding Languages 
 
 Python: \ref helloworld
-R: \ref R
+
+R: \ref example.R
+
 C++: \ref Afterdoc_Test
+
 
  \copyright Copyright (c) 2020, Wasserman lab
 
