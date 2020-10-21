@@ -9,7 +9,7 @@ stuff about something important
 
 Python: \ref helloworld
 
-R: \ref example.R
+R: \ref exampleR
 
 C++: \ref Afterdoc_Test
 
