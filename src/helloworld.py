@@ -1,4 +1,4 @@
-"""@package docstring
+"""@package helloworld
 Documentation for this module.
  
 More details.
