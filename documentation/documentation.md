@@ -3,6 +3,7 @@
 stuff about something important
 
  - \subpage installation "Installation Instructions"
+ - \subpage picture "Example of a picture"
  - \subpage example "Example"
 
 \subsection Different Coding Languages 
