@@ -11,7 +11,5 @@ Here is a example of how to add a picture to a page
 
 \image html smiley.png height=50px
 
-## Width set to 150px, left aligned
 
-| \image html smiley.png height=50px |
 
